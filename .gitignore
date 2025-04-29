@@ -1,0 +1,22 @@
+# Ignore Python environment folders
+env/
+envs/
+venv/
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore node_modules if you have frontend too
+node_modules/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore logs
+*.log
+
+# Ignore database or cache files
+*.sqlite3
